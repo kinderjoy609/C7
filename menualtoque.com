@@ -3,6 +3,7 @@
     class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2"
     lang="en">
 <head>
+    <meta name="google-site-verification" content="is-Sw5kX9J_uHtPmBf0FkIWUzH-KL0g380zWuZA1SYQ" />
     <meta name="google-site-verification" content="YS_MdWmHgtXihAlQtzsw6lT6klMHVOU1CleSEN20mgA" />
     <meta name="google-site-verification" content="KxwtWtUGi1wU4Z7atf69vxdb_CFfq6AQgv6jRHwxNBg" />
     <script type="text/javascript" async="" src="https://s.pinimg.com/ct/core.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
